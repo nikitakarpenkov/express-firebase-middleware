@@ -1,6 +1,6 @@
 {
   "name": "express-firebase-middleware",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Express middleware for your Firebase applications",
   "main": "lib/index.js",
   "files": [
@@ -29,7 +29,7 @@
   "homepage": "https://github.com/antonybudianto/express-firebase-middleware#readme",
   "peerDependencies": {
     "express": "^4.16.2",
-    "firebase-admin": "^5.5.0"
+    "firebase-admin": "^6.0.0"
   },
   "devDependencies": {
     "babel-cli": "^6.26.0",
